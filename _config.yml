@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Improv Hacker present "Whose Slide Is It Anyway?" @ DEFCON 25
+title: Improv Hacker presents "Whose Slide Is It Anyway?" @ DEFCON 25
 email: info@improvhacker.com
 description: > # this means to ignore newlines until "baseurl:"
   Now an official contest at DEFCON 25!
