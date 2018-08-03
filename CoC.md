@@ -1,4 +1,4 @@
-**The Improv Hacker / Whose Slide Is It Anyway Code of Conduct
+**The Improv Hacker / Whose Slide Is It Anyway Code of Conduct**
 
 **What Is WSIIA?
 
