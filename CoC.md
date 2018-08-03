@@ -12,7 +12,7 @@ Common decency and common sense. What do we mean by that? This event succeeds on
 
 **What Will We Do?**
 
-We will give the contestants, judges & staff free reign to be their most creative selves both in the creation and delivery of content and topics in the slide decks. Much of it is irreverent, weird, confusing and frightening to everyone regardless of background. We like it that way. That being said, there are rules. We will never deliberately create content that marginalizes, demeans, or otherwise threatens anyone’s personal space and safety. We will take all feedback and criticism under advisement and will provide you with an avenue to give that feedback.
+We will give the contestants, judges & staff free reign to be their most creative selves both in the creation and delivery of content and topics in the slide decks. Much of it is irreverent, weird, confusing and frightening to everyone regardless of background. We like it that way. That being said, there are rules. We will never deliberately create content that marginalizes, demeans, or otherwise threatens anyone’s personal space and safety (unless you wrote systemd, in which case, you're on your own). We will take all feedback and criticism under advisement and will provide you with an avenue to give that feedback.
 
 **What Won't We Put Up With?**
 
