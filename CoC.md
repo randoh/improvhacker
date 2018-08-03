@@ -28,7 +28,7 @@ What's all this mean for you, as a contestant? Somebody other than us said this,
 
 We must all police ourselves and understand that we all come from different cultures, and backgrounds, which is something this contest is meant to celebrate/exploit (Slides about Animal Husbandry are hilarious in any language). We want people to enjoy themselves. We want them to feel included. If, for any reason, they feel threatened or fear for their well-being, we want them to have a clear workflow for reporting. 
 
-Report any concerns to randoh (@dakacki) directly, if you can't find him, grab a DEF CON Goon and they'll help find him for you.  Otherwise, any issues, comments, questions, slide deck suggestions and bribes can be directed to rand0h (@dakacki @ImprovHacker) via Twitter DM, in person or over email to randoh at pcwf dot co.
+Report any concerns to rand0h (@dakacki) directly, if you can't find him, grab a DEF CON Goon and they'll help find him for you.  Otherwise, any issues, comments, questions, slide deck suggestions and bribes can be directed to rand0h (@dakacki @ImprovHacker) via Twitter DM, in person or over email to randoh at pcwf dot co.
 
 In short. Don't be a dick. In return, we will never (intentionally) be dicks. If you think we're being dicks, tell us about it. If you're being a dick, we'll take swift action to remove you so we can go back to having fun without you.
 
