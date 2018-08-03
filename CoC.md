@@ -16,7 +16,7 @@ We will give the contestants, judges & staff free reign to be their most creativ
 
 **What Won't We Put Up With?**
 
-Comedy is, at its heart, the last bastion of all die hard free speech. It's imperative that the comedic process to be free of most of society's constraints and norms. To that end, Improv Hacker / WSIIA cannot and will not be responsible for what comes out of our contestants’ mouths. Be it hilarious, cringeworthy or otherwise WTF we will never tell our contestants how to do their schtick.
+Comedy is, at its heart, the last bastion of all die hard free speech. It's imperative that the comedic process be free of most of society's constraints and norms. To that end, Improv Hacker / WSIIA cannot and will not be responsible for what comes out of our contestants’ mouths. Be it hilarious, cringeworthy or otherwise WTF we will never tell our contestants how to do their schtick.
 
 However, while we will never be able to anticipate what contestants might say, we will not, under any circumstances, tolerate hate speech meant to incite violence or lessen the humanity of our attendees. Anything that denigrates someone’s age, race, color, religion, sex, gender/genderless, national origin, disability status, protected veteran status, or any other characteristic that might attempt to demean or undermine a person’s value in our community. Language that violates that rule will be dealt with swiftly and severely.
 
